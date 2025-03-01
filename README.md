@@ -12,6 +12,9 @@
 - cnn train 코드 : train_cnn_vgg16.ipynb
 - 아두이노 7세그먼트 디스플레이 코드 : arduino/*.ino 
 
+[dataset, model files]
+- release에 첨부
+
 [reference]
 - digit location detect : https://github.com/jiweibo/SSOCR/blob/master/ssocr.py 
 
