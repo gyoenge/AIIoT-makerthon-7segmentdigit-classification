@@ -1,0 +1,5 @@
+/7segdataset_raw
+/7segdataset_aug
+/7segdataset_aug_split
+
+7seg_vgg16_model_v1.h5
